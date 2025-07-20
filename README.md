@@ -1,6 +1,7 @@
 # 🧮 Awesome Object Counting (Selected Works)
 
-![PP-YOLOE Demo](https://github.com/Gaurav14cs17/YOLOE/blob/main/images/yoloe.png)
+![Pulse](https://github.com/Gaurav14cs17/Object-Counting/blob/main/images/pulses.jpg)
+![Counting](https://github.com/Gaurav14cs17/Object-Counting/blob/main/images/pulses_mask.png)
 
 A focused collection of **recent and impactful papers** on object counting using modern computer vision techniques — including **masked autoencoders**, **diffusion models**, **prompt-based zero-shot learning**, and **semantic priors**.
 

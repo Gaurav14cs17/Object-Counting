@@ -111,15 +111,4 @@ Object counting refers to estimating the **number of instances of an object** in
 
 ---
 
-## 🤝 Contributing
 
-We welcome contributions of:
-- New papers
-- Codebases
-- Datasets
-- Tools and evaluations
-
-**To add a new paper**, open a PR and update the table in this format:
-
-```markdown
-| **Your Paper Title** | Method Type | Year | [📄 Paper](link) / [💻 Code](link) |
